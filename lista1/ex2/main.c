@@ -11,7 +11,6 @@ int main(){
         insereElemento(&c1, i+2);
         insereElemento(&c1, i+6);
     }
-
     
     return 0;
 }
